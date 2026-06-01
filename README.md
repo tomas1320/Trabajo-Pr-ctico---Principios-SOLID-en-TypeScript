@@ -4,11 +4,6 @@
 
 Tomas Urquia
 
-## Repositorio GitHub
-
-Link del repositorio:
-
-https://github.com/usuario/solid-typescript
 
 ---
 

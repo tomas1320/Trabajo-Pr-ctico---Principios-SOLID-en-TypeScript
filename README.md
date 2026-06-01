@@ -2,7 +2,7 @@
 
 ## Alumno
 
-[Tu Nombre]
+Tomas Urquia
 
 ## Repositorio GitHub
 

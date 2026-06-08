@@ -8,7 +8,7 @@ Este repositorio local contiene ejemplos corregidos de los principios SOLID:
 - ISP: Principio de Segregación de Interfaces
 - DIP: Principio de Inversión de Dependencias
 
-> Nota: este proyecto es local y no se sube a GitHub.
+
 
 ## Archivos
 
